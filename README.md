@@ -1,4 +1,4 @@
-# Prohect Name
+# House Price Prediction
 
 The project is focused on building and end-to-end machine learning pipeline for a **house price prediction system**
 
